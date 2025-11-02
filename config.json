@@ -1,0 +1,5 @@
+{
+    "ANNEE_MAX_JUNIOR": 2007,
+    "DELIMITER": ";",
+    "COLUMNS_NAMES_SOURCE": ["athlete_id", "rank", "discipline", "gender", "category"]
+}
